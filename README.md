@@ -5,7 +5,7 @@
 
 ### Java • Programação Orientada a Objetos • PostgreSQL
 
-Sistema de gerenciamento de acervo e empréstimos, desenvolvido como atividade prática da formação **Desenvolvedor Full Stack — +praTi & Codifica**.
+Sistema de gerenciamento de acervo e empréstimos, desenvolvido como atividade prática da formação **Desenvolvedor Full Stack | +praTi & Codifica**.
 
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
