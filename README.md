@@ -203,7 +203,7 @@ São utilizados recursos como `JOIN`, `LEFT JOIN`, `GROUP BY`, `SUM`, `COALESCE`
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/sistema-biblioteca-java-postgresql.git
+git clone https://github.com/danieli-dutra/sistema-biblioteca-java-postgresql.git
 ```
 
 Abra o projeto em uma IDE com o JDK 21 configurado e execute:
